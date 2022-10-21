@@ -11,8 +11,8 @@ else{
 const myLove = 84;
 const yourLove = 100;
 if(myLove > yourLove){
-    console.log('MyLove will get the cake')
+    console.log('MyLoves will get the cake')
 }
 else{
-    console.log('yourLove will you get the cake')
+    console.log('yourLoves will you get the cake')
 }
