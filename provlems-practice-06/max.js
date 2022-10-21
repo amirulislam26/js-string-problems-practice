@@ -16,3 +16,12 @@ if(myLove > yourLove){
 else{
     console.log('yourLoves will you get the cake')
 }
+//.................................
+const banglaMarks = 95;
+const EnglishMarks = 85;
+if(banglaMarks > EnglishMarks){
+    console.log('banglaMarks will get the cake')
+}
+else{
+    console.log('EnglishMarks will you get the cake')
+}
